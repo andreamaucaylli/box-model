@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+}
+
+.father{
+	
+	background-color: orange;
+	height: 150px;
+	width: 700px;
+}
+
+.son{
+    height: 150px;
+    border: 15px solid purple;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+p{
+	border-style: dashed;
+	padding: 10px;
+	background-color: white;
+}
+
